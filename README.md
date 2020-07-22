@@ -1,0 +1,2 @@
+# weekdays_storekeeper
+my_first_python_game
