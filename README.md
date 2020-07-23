@@ -1,2 +1,2 @@
 # weekdays_storekeeper
-start game.py
+start - game.py
